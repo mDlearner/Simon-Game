@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-image: url('Simple-Background-Images-21.png');
+    display: 100vh;
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 12px solid #000;
+    margin: 8px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.red{
+    background-color: #EF6C00;
+}
+.green{
+    background-color: #2E7D32;
+}
+.blue{
+    background-color: #0288D1;
+}
+.purple{
+    background-color: #6A1B9A;
+}
+h1,h3,h4,#hs{
+    color: #fff;
+}
+.flash{
+    background-color: #fff;
+}
